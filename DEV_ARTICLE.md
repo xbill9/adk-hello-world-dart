@@ -12,6 +12,8 @@ Building intelligent AI agents directly within the Dart and Flutter ecosystem is
 
 In this guide, we'll walk through building a complete **ADK & MCP Agent Server** in Dart, testing it locally using **Gemini CLI**, and deploying it to **Google Cloud Run**.
 
+> 📦 **GitHub Repository:** [https://github.com/xbill9/adk-hello-world-dart](https://github.com/xbill9/adk-hello-world-dart)
+
 ---
 
 ## Why ADK for Dart & Flutter?
@@ -226,7 +228,9 @@ gcloud run deploy adk-hello-world-dart \
 
 With `adk_dart` and `adk_mcp`, Dart and Flutter developers have a native framework to build, test, and deploy intelligent AI agents. Whether building CLI helpers, full-stack Flutter backends, or cloud-hosted AI microservices, the Dart ADK ecosystem provides a seamless developer experience.
 
-### Next Steps
-* Check out the [ADK Dart Package on pub.dev](https://pub.dev/packages/adk_dart)
+### Resources & Next Steps
+* 📦 **GitHub Repository:** [xbill9/adk-hello-world-dart](https://github.com/xbill9/adk-hello-world-dart)
+* 📖 [ADK Dart Package on pub.dev](https://pub.dev/packages/adk_dart)
+* 📖 [ADK MCP Package on pub.dev](https://pub.dev/packages/adk_mcp)
 * Explore multi-agent collaboration with `SequentialAgent` and `ParallelAgent`
 * Integrate Vertex AI and Gemini models into your Flutter applications!
